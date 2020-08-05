@@ -1,6 +1,7 @@
 Saliencygan: Deep learning semi-supervised salient object detection in the fog of iot.
 
 ![](https://img.shields.io/badge/license-MIT-blue)
+![mainimg](https://github.com/Heye-SYSU/AGGAN/blob/master/figure1.png)
 
 # Paper
 This repository provides the implementation of SaliencyGAN in the following paper: 
